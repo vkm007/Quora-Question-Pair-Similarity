@@ -25,6 +25,4 @@ Source : https://www.kaggle.com/c/quora-question-pairs
 3. No strict latency concerns.
 4. Interpretability is partially important.
 
-<h2> Final Conclusion</h2>
-![Alt text](https://user-images.githubusercontent.com/44186975/88655863-fd5fe180-d0ec-11ea-90d1-0e2d4c1726e8.png?raw=true "Optional Title")
 
