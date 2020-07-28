@@ -20,9 +20,9 @@ Source : https://www.kaggle.com/c/quora-question-pairs
 4. Blog 2 : https://towardsdatascience.com/identifying-duplicate-questions-on-quora-top-12-on-kaggle-4c1cf93f1c30
 
 <h2> Real world/Business Objectives and Constraints </h2>
-1. The cost of a mis-classification can be very high.
-2. You would want a probability of a pair of questions to be duplicates so that you can choose any threshold of choice.
-3. No strict latency concerns.
-4. Interpretability is partially important.
+1. The cost of a mis-classification can be very high.<br>
+2. You would want a probability of a pair of questions to be duplicates so that you can choose any threshold of choice.<br>
+3. No strict latency concerns.<br>
+4. Interpretability is partially important.<br>
 
 
